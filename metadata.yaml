@@ -1,0 +1,26 @@
+_repo: The-History-of-the-Ten--Lost--TribesAnglo-Israelism-Examined_38630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38630-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baron, David
+    gutenberg_agent_id: '39585'
+    url: http://www.gutenberg.org/2009/agents/39585
+description: ''
+gutenberg_issued: '2012-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lost tribes of Israel'
+- !lcc 'DS'
+- !lcsh 'Anglo-Israelism'
+- !lcsh 'Jews -- History'
+title: 'The History of the Ten "Lost" Tribes: Anglo-Israelism Examined'
+url: http://www.gutenberg.org/ebooks/38630
