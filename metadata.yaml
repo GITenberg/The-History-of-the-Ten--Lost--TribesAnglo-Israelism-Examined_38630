@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39585'
     url: http://www.gutenberg.org/2009/agents/39585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38630#The-History-of-the-Ten--Lost--TribesAnglo-Israelism-Examined
 gutenberg_issued: '2012-01-20'
 gutenberg_type: Text
 identifiers:
